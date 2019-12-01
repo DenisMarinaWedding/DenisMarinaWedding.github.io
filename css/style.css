@@ -44,11 +44,11 @@ body {
 .page-main__title {
   position: absolute;
   bottom: 10px;
-  left: 10px;
+  left: 100px;
   margin: 0;
-  font-size: 40px;
-  color: rgb(89,42,48);
-  text-shadow: 5px 0 5px rgb(234, 214,189);
+  font-size: 30px;
+  color: #3BA3D0;
+  text-shadow: 3px 0 5px rgb(89,42,48);
 }
 
 .info-item:first-of-type {
@@ -159,9 +159,9 @@ body {
   }
 
   .page-main__title {
-    left: 10px;
+    left: 100px;
     bottom: 10px;
-    font-size: 50px;
+    font-size: 30px;
   }
 }
 
@@ -171,7 +171,7 @@ body {
   }
 
   .page-main__title {
-    left: 50px;
+    left: 260px;
     bottom: 30px;
     font-size: 150px;
   }
